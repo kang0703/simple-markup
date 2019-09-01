@@ -19,6 +19,6 @@ background:url($img + 'main/.png') 0 0 no-repeat;
 @include box-sizing;
 
 
-## mediaquery
-@media all and (min-width:320px) and (max-width:767px) { … }
+## node_modules 폴더 삭제
+rimraf node_modules
 
