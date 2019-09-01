@@ -21,7 +21,10 @@ $pc: $bp3;
 	li{
 		float:left;
 		width:33.3333%;
+		height:100px;
 		color:blue;
+		background:url($img + 'main/test-img.jpg') 0 0 no-repeat;
+		background-size:cover;
 	}
 }
 
